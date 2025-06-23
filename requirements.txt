@@ -1,0 +1,20 @@
+# Core Framework
+streamlit
+python-dotenv
+# Data Handling
+pandas
+numpy
+# Plotting and Visualization
+matplotlib
+seaborn
+# ML Models
+scikit-learn
+# Text Processing
+PyPDF2
+python-docx
+# HTTP Requests
+requests
+# IBM Watsonx AI SDK (required for Granite model)
+ibm-watsonx-ai
+# Optional - for Streamlit styling and themes
+Pillow
