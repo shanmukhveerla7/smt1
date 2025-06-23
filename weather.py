@@ -1,6 +1,7 @@
 import requests
 from datetime import datetime
 import streamlit as st
+import openai
 import os
 import pandas as pd
 import altair as alt
